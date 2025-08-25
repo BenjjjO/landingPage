@@ -11,9 +11,7 @@ const Hero = () => {
                 <span className='text-white'>Full Tilt</span>
             </h2>
             <p className='text-gray-300 max-w-2xl mx-auto mt-6 text-sm md:text-base'>
-  Experience the next generation of blockchain technology, powered by intelligent AI that scales seamlessly. 
-  Build faster, smarter, and more secure decentralized applications with cutting-edge performance and reliability.
-</p>
+A dynamic fusion of rhythm and chaos — abstract waves, cosmic doodles, and vibrant bursts of neon energy come together to create a design that feels alive, like sound and light in motion.</p>
 
             <div className="flex justify-center gap-4 mt-8">
                 <div className="flex gap-4">
