@@ -30,8 +30,8 @@ const Hero2 = () => {
             {/* image container */}
             <div className="relative mt-[-20px] flex items-center justify-center overflow-hidden">
                 {/* Recommendation: Use an abstract cityscape or digital horizon image for asset.img3 */}
-                <img className='absolute inset-0 w-screen h-full object-cover z-0' src={asset.img3} alt="Digital Horizon" />
-                <img className='relative z-10 w-[50rem] max-w-full' src={asset.img2} alt="Cosmic Doodle" />
+                <img className='absolute inset-0 w-screen h-full object-cover z-0' src={asset.img1} />
+                <img className='relative z-10 w-[50rem] max-w-full' src={asset.img2}/>
             </div>
         </section>
     )
