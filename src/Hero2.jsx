@@ -1,5 +1,5 @@
 import React from 'react'
-import { asset, assets } from './assets/assets.js'
+import { asset, assets } from './assets/assets'
 import './App.css'
 const Hero = () => {
     return (
